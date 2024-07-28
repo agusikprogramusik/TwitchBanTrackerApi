@@ -1,6 +1,6 @@
 # TwitchBanTracker
 
-Frontend repo will be added later.
+(https://github.com/agusikprogramusik/twitch-ban-tracker-frontend)
 
 TwitchBanTrackerApi is a web API designed to track user bans and timeouts on Twitch. It provides endpoints to manage and retrieve information about banned users and their messages.
 
