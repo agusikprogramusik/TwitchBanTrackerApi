@@ -94,6 +94,13 @@ TwitchBanTrackerApi is a web API designed to track user bans and timeouts on Twi
   •	AutoMapper
   </br>
   </br>
-  
-![FrqioWf](https://github.com/user-attachments/assets/b84807a7-9414-4ead-b8eb-cea02e4e7c22)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b84807a7-9414-4ead-b8eb-cea02e4e7c22">
+</p>
 <p align="center">Swagger view for TwitchTrackerAPI</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/80d8d4ef-c3dd-4f3f-8942-81e35e035d0b">
+</p>
+<p align="center">Get method for a banned user</p>
